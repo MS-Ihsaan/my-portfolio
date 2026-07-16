@@ -12,14 +12,14 @@ import NotFound from "./pages/NotFound.jsx";
 
 const meta = {
   "/": {
-    title: "Mohamad Sameel Ihsaan — Full-Stack Developer",
-    desc: "Portfolio of Mohamad Sameel Ihsaan — Full-Stack Developer and BICT undergraduate at the University of Kelaniya.",
+    title: "Mohamad Sameel Ihsaan - Full-Stack Developer",
+    desc: "Portfolio of Mohamad Sameel Ihsaan - Full-Stack Developer and BICT undergraduate at the University of Kelaniya.",
   },
-  "/about": { title: "About — Mohamad Sameel Ihsaan", desc: "Background, education and career goals." },
-  "/skills": { title: "Skills — Mohamad Sameel Ihsaan", desc: "Languages, frameworks, tools and disciplines." },
-  "/services": { title: "Services — Mohamad Sameel Ihsaan", desc: "Full-stack development, APIs, responsive UIs and maintenance." },
-  "/projects": { title: "Projects — Mohamad Sameel Ihsaan", desc: "Selected full-stack, frontend and backend projects." },
-  "/contact": { title: "Contact — Mohamad Sameel Ihsaan", desc: "Get in touch for internships, freelance or collaborations." },
+  "/about": { title: "About - Mohamad Sameel Ihsaan", desc: "Background, education and career goals." },
+  "/skills": { title: "Skills - Mohamad Sameel Ihsaan", desc: "Languages, frameworks, tools and disciplines." },
+  "/services": { title: "Services - Mohamad Sameel Ihsaan", desc: "Full-stack development, APIs, responsive UIs and maintenance." },
+  "/projects": { title: "Projects - Mohamad Sameel Ihsaan", desc: "Selected full-stack, frontend and backend projects." },
+  "/contact": { title: "Contact - Mohamad Sameel Ihsaan", desc: "Get in touch for internships, freelance or collaborations." },
 };
 
 function useDocumentMeta() {
